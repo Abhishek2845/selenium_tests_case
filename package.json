@@ -1,0 +1,26 @@
+{
+  "name": "selenium_tests_case",
+  "version": "1.0.0",
+  "description": "This is selenium test case repository. Here we write all test case in selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek2845/selenium_tests_case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek2845/selenium_tests_case/issues"
+  },
+  "homepage": "https://github.com/Abhishek2845/selenium_tests_case#readme",
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "driver": "^1.0.0",
+    "geckodriver": "^3.0.2",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
